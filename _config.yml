@@ -1,0 +1,7 @@
+pygments: true
+paginate: 3
+relative_permalinks: false
+permalink: /:year/:month/:day/:title/
+excerpt_separator: <!--more--> 
+paginate_path: "page:num"
+url: http://class240.com
