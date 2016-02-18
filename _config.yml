@@ -1,7 +1,7 @@
 pygments: true
-paginate: 3
+paginate: 50
 relative_permalinks: false
 permalink: /:year/:month/:day/:title/
 excerpt_separator: <!--more--> 
 paginate_path: "page:num"
-url: http://xiaof.github.io/240
+url: http://fatcoder.com/240
